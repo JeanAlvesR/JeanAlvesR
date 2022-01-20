@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jean! Estudante de Engenharia da Computação. 👋
 
 * 📑 Quarto termo de Engenharia da Computação.
-* 📚 Atualmente migrando para o S.O Linux.
+* 📚 Atualmente migrando para o S.O Linux e estudando versionamento de código (GIT).
 
 <div align="center">
   <a href="https://github.com/jeanalvesr">
