@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Jean! Estudante de Engenharia da Computação. 👋
+<img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
 * 📑 Quarto termo de Engenharia da Computação.
 * 📚 Atualmente migrando para o S.O Linux e estudando versionamento de código (GIT).
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
