@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
 * 📑 Quarto termo de Engenharia da Computação.
-* 📚 Atualmente estagiando, estudando Angular (curso) e sendo monitor em POO.
+* 📚 Atualmente estudando Spring Boot Expert: JPA, RESTFul API, Security, JWT (...) e sendo monitor em Programação Orientada a Objetos.
 
 
 ![](https://i.imgur.com/waxVImv.png)
