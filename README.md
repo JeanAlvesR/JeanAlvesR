@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jean! Estudante de Engenharia da Computação. 👋
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
-* 📑 Quarto termo de Engenharia da Computação.
+* 📑 Quarto termo de Engenharia da Computação -> Matérias no período noturno. 
 * 📚 Atualmente estudando Spring Boot Expert: JPA, RESTFul API, Security, JWT (...) e sendo monitor em Programação Orientada a Objetos.
 
 
