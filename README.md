@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
 * 📑 Quarto termo de Engenharia da Computação -> Matérias no período noturno. 
-* 📚 Atualmente estudando Spring Boot Expert: JPA, RESTFul API, Security, JWT (...) e sendo monitor em Programação Orientada a Objetos.
+* 📚 Atualmente estudando HTML, CSS e Javascript e sendo monitor em Programação Orientada a Objetos.
 
 
 ![](https://i.imgur.com/waxVImv.png)
