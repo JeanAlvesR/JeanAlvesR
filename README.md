@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Jean! Estudante de Engenharia da Computação. 👋
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
-* 📑 Quarto termo de Engenharia da Computação -> Matérias no período noturno. 
-* 📚 Atualmente estudando HTML, CSS e Javascript e sendo monitor em Programação Orientada a Objetos.
+*  Quarto termo de Engenharia da Computação -> Matérias no período noturno.
+*  Monitor de Programação Orientada a Objetos.
+*  Estudando Python e Machine Learning para uma Iniciação Científica.
 
 
 ![](https://i.imgur.com/waxVImv.png)
