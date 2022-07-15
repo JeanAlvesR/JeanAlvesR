@@ -3,7 +3,7 @@
 
 *  Quarto termo de Engenharia da Computação -> Matérias no período noturno.
 *  Monitor de Programação Orientada a Objetos.
-*  Estudando Python e Machine Learning para uma Iniciação Científica.
+*  Estudando Python e Machine Learning.
 
 
 ![](https://i.imgur.com/waxVImv.png)
