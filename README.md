@@ -1,7 +1,7 @@
-### Olá! Eu sou o Jean! Estudante de Engenharia da Computação. 👋
+### Olá! Eu sou o Jean! Estudante de Engenharia de Software. 👋
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
-*  Quarto termo de Engenharia da Computação -> Matérias no período noturno.
+*  Segundo Termo de Engenharia de Software.
 *  Monitor de Programação Orientada a Objetos.
 *  Estudando Python e Machine Learning.
 
