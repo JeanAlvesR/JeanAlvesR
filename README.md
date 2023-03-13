@@ -2,8 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
 *  Cursando Engenharia de Software.
-*  Monitor de Programação Orientada a Objetos.
-*  Estudando Python e Machine Learning.
+*  Estudando Spring Boot.
 
 
 ![](https://i.imgur.com/waxVImv.png)
