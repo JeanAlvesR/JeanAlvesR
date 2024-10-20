@@ -1,9 +1,6 @@
-### Olá! Eu sou o Jean! Estudante de Engenharia de Software. 👋
+### Eu sou o Jean! Estudante de Engenharia de Software, apaixonado por Física e Desenvolvedor FullStack. 👋
+
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
-
-*  Cursando Engenharia de Software.
-*  Estudando Spring Boot.
-
 
 ![](https://i.imgur.com/waxVImv.png)
 
