@@ -1,4 +1,4 @@
-### Eu sou o Jean! Estudante de Engenharia de Software, apaixonado por Física e Desenvolvedor FullStack. 👋
+### Estudante de Engenharia de Software, apaixonado por Física e Desenvolvedor FullStack. 👋
 
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
