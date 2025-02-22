@@ -1,4 +1,4 @@
-### Estudante de Engenharia de Software, apaixonado por Física e Desenvolvedor Full-Stack. 👋
+### Desenvolvedor Full-Stack e apaixonado por Física. 👋
 
 <img align="right" alt="GIF" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="100" height="100" />
 
